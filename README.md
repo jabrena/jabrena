@@ -2,6 +2,7 @@
 
 Active development in:
 
+- https://github.com/jabrena/cursor-rules-methodology
 - https://github.com/jabrena/cursor-rules-java
 - https://github.com/jabrena/cursor-rules-agile
 - https://github.com/jabrena/cursor-rules-examples
