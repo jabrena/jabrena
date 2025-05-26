@@ -2,12 +2,13 @@
 
 Active development in:
 
-- https://github.com/jabrena/setup-cli
 - https://github.com/jabrena/cursor-rules-java
 - https://github.com/jabrena/cursor-rules-agile
 - https://github.com/jabrena/cursor-rules-examples
 - https://github.com/jabrena/latency-problems
 - https://github.com/jabrena/101-cursor
+- https://github.com/jabrena/setup-cli
+- https://github.com/jabrena/jbang-catalog
 - https://github.com/jabrena/the-watcher
 
 <!--
