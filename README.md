@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Active development in:
+
+- https://github.com/jabrena/setup-cli
+- https://github.com/jabrena/cursor-rules-java
+- https://github.com/jabrena/cursor-rules-agile
+- https://github.com/jabrena/cursor-rules-examples
+- https://github.com/jabrena/101-cursor
+- https://github.com/jabrena/the-watcher
+
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
