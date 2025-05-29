@@ -10,7 +10,7 @@ Active development in:
 - https://github.com/jabrena/101-cursor
 - https://github.com/jabrena/setup-cli
 - https://github.com/jabrena/jbang-catalog
-- https://github.com/jabrena/the-watcher
+- https://github.com/jabrena/plantuml-to-png-cli
 
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
