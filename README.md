@@ -4,6 +4,7 @@ Active development in:
 
 - https://github.com/jabrena/cursor-rules-methodology
 - https://github.com/jabrena/cursor-rules-examples
+- https://github.com/jabrena/www.juanantonio.info
 
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
