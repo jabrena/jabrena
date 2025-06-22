@@ -7,7 +7,6 @@ Active development in:
 - https://github.com/jabrena/plantuml-to-png-cli
 - https://github.com/jabrena/setup-cli
 - https://github.com/jabrena/cursor-rules-scope-cli
-- https://github.com/jabrena/cursor-rules-sandbox
 
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
