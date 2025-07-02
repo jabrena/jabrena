@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### First do it, then do it right, then do it better
+
 Active development in:
 
 - https://github.com/jabrena/www.juanantonio.info
