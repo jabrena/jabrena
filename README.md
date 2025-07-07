@@ -9,7 +9,7 @@ Active development in:
 ## Cursor rules ecosystem
 
 - https://github.com/jabrena/101-cursor
-- https://github.com/jabrena/spml
+- https://github.com/jabrena/pml
 - https://github.com/jabrena/cursor-rules-methodology
 - https://github.com/jabrena/cursor-rules-agile
 - https://github.com/jabrena/cursor-rules-java
