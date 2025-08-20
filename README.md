@@ -19,6 +19,7 @@ Active development in:
 - https://github.com/jabrena/cursor-rules-java
 - https://github.com/jabrena/cursor-rules-examples
 - https://github.com/jabrena/cursor-rules-sandbox
+- https://github.com/jabrena/cursor-agent-pipeline-demo
 - https://github.com/jabrena/plantuml-to-png-cli
 - https://github.com/jabrena/setup-cli
 - https://github.com/jabrena/jbang-catalog
