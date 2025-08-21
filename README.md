@@ -6,10 +6,6 @@
 
 ---
 
-Active development in:
-
-- https://github.com/jabrena/www.juanantonio.info
-
 ## Cursor rules ecosystem
 
 - https://github.com/jabrena/101-cursor
