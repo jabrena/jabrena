@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### First do it, then do it right, then do it better
+> First do it, then do it right, then do it better
 
 - https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
@@ -10,12 +10,8 @@
 
 - https://github.com/jabrena/101-cursor
 - https://github.com/jabrena/pml
-- https://github.com/jabrena/cursor-rules-methodology
-- https://github.com/jabrena/cursor-rules-agile
 - https://github.com/jabrena/cursor-rules-java
-- https://github.com/jabrena/cursor-rules-examples
-- https://github.com/jabrena/cursor-rules-sandbox
-- https://github.com/jabrena/cursor-agent-pipeline-demo
+- https://github.com/jabrena/cursor-rules-agile
 - https://github.com/jabrena/plantuml-to-png-cli
 - https://github.com/jabrena/setup-cli
 - https://github.com/jabrena/jbang-catalog
