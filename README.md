@@ -1,6 +1,4 @@
-## Hi there 👋
-
-> First do it, then do it right, then do it better
+## First do it, then do it right, then do it better
 
 - https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
