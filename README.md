@@ -9,7 +9,7 @@ https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contrib
 | Talks | System prompts | Tooling |
 |-------|---------------|---------|
 | [101 Cursor @ MadridJug](https://github.com/jabrena/101-cursor) | [Prompt Markup Language](https://github.com/jabrena/pml) | [jbang puml-to-uml@jabrena --help](https://github.com/jabrena/plantuml-to-png-cli) |
-| [The power of Cursor rules for Java @ DevoxxBe](https://jabrena.github.io/cursor-rules-java/dvbe25/) (WIP) | [Cursor rules for Java](https://github.com/jabrena/cursor-rules-java) | [jbang setup@jabrena init --help](https://github.com/jabrena/setup-cli) |
+| [The power of Cursor rules for Java @ Devoxx Be](https://jabrena.github.io/cursor-rules-java/dvbe25/) (WIP) | [Cursor rules for Java](https://github.com/jabrena/cursor-rules-java) | [jbang setup@jabrena init --help](https://github.com/jabrena/setup-cli) |
 | [101 Cursor v2 @ W-JAX](https://jax.de/munich/) | [Cursor rules for Agile](https://github.com/jabrena/cursor-rules-agile) | [jbang catalog @ jabrena](https://github.com/jabrena/jbang-catalog) |
 
 <!--
