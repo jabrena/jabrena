@@ -6,7 +6,7 @@ Since 1997, I have developed my career in Internet channel. In 2000, I failed an
 
 https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
-> First do it, then do it right, then do it better
+> *"First do it, then do it right, then do it better"*
 
 ## Latest works
 
