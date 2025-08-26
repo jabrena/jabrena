@@ -1,4 +1,4 @@
-## Juan Antonio Breña Moral
+# Juan Antonio Breña Moral
 
 ## About
 
@@ -8,7 +8,7 @@ https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contrib
 
 > First do it, then do it right, then do it better
 
-## Latest works:
+## Latest works
 
 | Talks | System prompts | Tooling |
 |-------|---------------|---------|
