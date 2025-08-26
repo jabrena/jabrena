@@ -2,7 +2,7 @@
 
 ## About
 
-From 1997, I have developed my careeer in Internet channel. In 2000 I failed an interview in Telefonica R&D due to a vague answer about [Java Applets](https://en.wikipedia.org/wiki/Java_applet) and that failure motivated to learn more about Java. During my the years, I have helped the Java community in Robotics around [LeJOS project](https://lejos.sourceforge.io/), [OpenJDK build on ARM5](https://github.com/ev3dev-lang-java/openjdk-ev3) and recently creating [System prompts for Java](https://github.com/jabrena/cursor-rules-java) to be used by Models.
+From 1997, I have developed my career in Internet channel. In 2000 I failed an interview in Telefonica R&D due to a vague answer about [Java Applets](https://en.wikipedia.org/wiki/Java_applet) and that failure motivated to learn more about Java. During my the years, I have helped the Java community in Robotics around [LeJOS project](https://lejos.sourceforge.io/), [OpenJDK build on ARM5](https://github.com/ev3dev-lang-java/openjdk-ev3) and recently creating [System prompts for Java](https://github.com/jabrena/cursor-rules-java) to be used by Models.
 
 ## First do it, then do it right, then do it better
 
