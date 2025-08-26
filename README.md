@@ -1,18 +1,16 @@
 ## First do it, then do it right, then do it better
 
-- https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
+https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
 ---
 
-## Cursor rules ecosystem
+## Latest works:
 
-- https://github.com/jabrena/101-cursor
-- https://github.com/jabrena/pml
-- https://github.com/jabrena/cursor-rules-java
-- https://github.com/jabrena/cursor-rules-agile
-- https://github.com/jabrena/plantuml-to-png-cli
-- https://github.com/jabrena/setup-cli
-- https://github.com/jabrena/jbang-catalog
+| Talks | System prompts | Tooling |
+|-------|---------------|---------|
+| [101 Cursor @ MadridJug](https://github.com/jabrena/101-cursor) | [Prompt Markup Language](https://github.com/jabrena/pml) | [jbang puml-to-uml@jabrena --help](https://github.com/jabrena/plantuml-to-png-cli) |
+| [The power of Cursor rules for Java @ DevoxxBe](https://jabrena.github.io/cursor-rules-java/dvbe25/) (WIP) | [Cursor rules for Java](https://github.com/jabrena/cursor-rules-java) | [jbang setup@jabrena init --help](https://github.com/jabrena/setup-cli) |
+|  | [Cursor rules for Agile](https://github.com/jabrena/cursor-rules-agile) | [jbang catalog @ jabrena](https://github.com/jabrena/jbang-catalog) |
 
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
