@@ -10,8 +10,12 @@ In the last decade, I have been involved in various projects focusing on Microse
 
 https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
-> *"First do it, then do it right, then do it better"*
+> *"First do it, then do it right, then do it better."*
 > -- Addison Mizner
+> 
+> *"Pressure makes diamonds.", 
+> “Lead me, follow me, or get out of my way.”*
+> -- George S. Patton Jr.
 
 ## Latest works
 
