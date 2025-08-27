@@ -4,7 +4,9 @@
 
 Since 1997, I have developed my career in Internet channel. In 2000, I failed an interview at Telefónica R&D due to giving a vague answer about [Java Applets](https://en.wikipedia.org/wiki/Java_applet), and that failure motivated me to deep dive into Java and feel interested in this fantastic Programming language. 
 
-Over the following decades, I have contributed to the Java community in Robotics for education through projects like [LeJOS](https://lejos.sourceforge.io/), [LeJOS port for Debian](https://github.com/ev3dev-lang-java/ev3dev-lang-java) and [OpenJDK build on ARM5](https://github.com/ev3dev-lang-java/openjdk-ev3). In the last decade, I have been involved in various projects focusing on microservice architectures with Spring. A year ago, I started exploring [System prompts for Java](https://github.com/jabrena/cursor-rules-java) to help Java Software engineers in their daily work. Currently, I work as Engineering manager guiding/coaching teams.
+Over the following decades, I have contributed to the Java community in Robotics for education through projects like [LeJOS](https://lejos.sourceforge.io/), [LeJOS port for Debian](https://github.com/ev3dev-lang-java/ev3dev-lang-java) and [OpenJDK build on ARM5](https://github.com/ev3dev-lang-java/openjdk-ev3). 
+
+In the last decade, I have been involved in various projects focusing on Microservice architectures with Spring. A year ago, I started exploring [System prompts for Java](https://github.com/jabrena/cursor-rules-java) to help Java Software engineers in their daily work with the support of AI models. Currently, I work as Engineering manager guiding/coaching teams.
 
 https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
