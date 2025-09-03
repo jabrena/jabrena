@@ -10,12 +10,8 @@ In the last decade, I have been involved in various projects focusing on Microse
 
 https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 
-> *"Make it work, make it right, make it fast."*
-> -- Kent Beck
-> 
-> *"Pressure makes diamonds.", 
-> “Lead me, follow me, or get out of my way.”*
-> -- George S. Patton Jr.
+> *"Make it work, make it right, make it fast."* -- Kent Beck
+> *"Pressure makes diamonds.",  “Lead me, follow me, or get out of my way.”* -- George S. Patton Jr.
 
 ## Latest works
 
