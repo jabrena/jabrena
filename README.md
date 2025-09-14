@@ -18,10 +18,10 @@ https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contrib
 
 | Talks | System prompts | Tooling |
 |-------|---------------|---------|
-| [101 Cursor @ MadridJug](https://github.com/jabrena/101-cursor) | [Prompt Markup Language](https://github.com/jabrena/pml) | [jbang puml-to-uml@jabrena --help](https://github.com/jabrena/plantuml-to-png-cli) |
-| [The power of Cursor rules for Java @ Devoxx Be](#) (WIP) | [Cursor rules for Java](https://github.com/jabrena/cursor-rules-java) | [jbang setup@jabrena init --help](https://github.com/jabrena/setup-cli) |
-| [101 Cursor v2 @ W-JAX](https://jax.de/munich/) (Pending) | [Cursor rules for Spring Boot](https://github.com/jabrena/cursor-rules-spring-boot) | [jbang catalog @ jabrena](https://github.com/jabrena/jbang-catalog) |
-| | [Cursor rules for Agile](https://github.com/jabrena/cursor-rules-agile) | |
+| [101 Cursor v3 @ W-JAX](https://jax.de/munich/) (Pending) | [Prompt Markup Language](https://github.com/jabrena/pml) | [OpenAPI Spec for Cursor Agents API](https://github.com/jabrena/cursor-agents-api-java-client) |
+| [101 Cursor v2 @ Devoxx Be](https://devoxx.be/app/talk/4708/101-cursor-ai-learning-to-use-for-java-enterprise-projects) (Pending) | [Cursor rules for Java](https://github.com/jabrena/cursor-rules-java) | [Devcontainer Java template for Cursor Agents CLI](https://github.com/jabrena/cursor-agents-java-devcontainers) |
+| [The power of Cursor rules for Java @ Devoxx Be](https://devoxx.be/app/talk/4715/the-power-of-cursor-rules-in-java-enterprise-development) (WIP) | [Cursor rules for Spring Boot](https://github.com/jabrena/cursor-rules-spring-boot) | [jbang puml-to-uml@jabrena --help](https://github.com/jabrena/plantuml-to-png-cli) |
+| [101 Cursor @ MadridJug](https://github.com/jabrena/101-cursor) | [Cursor rules for Agile](https://github.com/jabrena/cursor-rules-agile) | [jbang setup@jabrena init --help](https://github.com/jabrena/setup-cli) |
 
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
