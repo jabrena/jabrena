@@ -14,6 +14,8 @@ https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contrib
 > 
 > *"Pressure makes diamonds.",  “Lead me, follow me, or get out of my way.”* -- George S. Patton Jr.
 
+https://github.com/users/jabrena/projects/2/views/1
+
 ## Latest works
 
 | Talks | System prompts | Tooling |
