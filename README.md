@@ -25,7 +25,7 @@ https://github.com/users/jabrena/projects/2/views/1
 | [101 Cursor v2 @ Devoxx Be](https://jabrena.github.io/101-cursor/) & [Demos](https://github.com/jabrena/dvbe25-demos) | [Cursor rules for Java](https://github.com/jabrena/cursor-rules-java) | [jbang aoc@jabrena --help](https://github.com/jabrena/aoc-cli) |
 | [The power of Cursor rules for Java @ Devoxx Be](https://jabrena.github.io/cursor-rules-java/dvbe25/index.html) | [Cursor rules for Spring Boot](https://github.com/jabrena/cursor-rules-spring-boot) | [jbang puml-to-uml@jabrena --help](https://github.com/jabrena/plantuml-to-png-cli) |
 | [101 Cursor @ MadridJug](https://jabrena.github.io/101-cursor/v010/index.html) | [Cursor rules for Agile](https://github.com/jabrena/cursor-rules-agile) | [jbang setup@jabrena init --help](https://github.com/jabrena/setup-cli) |
-|  |  | [Devcontainer Java template for Cursor Agents CLI](https://github.com/jabrena/cursor-agents-java-devcontainers) |
+| [Cursor Java Workshop](https://github.com/jabrena/cursor-java-workshop) |  | [Devcontainer Java template for Cursor Agents CLI](https://github.com/jabrena/cursor-agents-java-devcontainers) |
 
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
