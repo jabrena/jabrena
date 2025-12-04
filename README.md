@@ -30,6 +30,8 @@ https://github.com/users/jabrena/projects/2/views/1
 | | | [jbang sonar-search@jabrena --help](https://github.com/jabrena/sonar-search-cli) WIP |
 | | | [Jbang Catalog](https://github.com/jabrena/jbang-catalog) |
 
+- https://github.com/jabrena/advent-of-code
+
 <!--
 **jabrena/jabrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
