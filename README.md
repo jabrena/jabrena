@@ -28,7 +28,9 @@ https://github.com/users/jabrena/projects/2/views/1
 | [Cursor Java Workshop](https://github.com/jabrena/cursor-java-workshop) |  | [Devcontainer Java template for Cursor Agents CLI](https://github.com/jabrena/cursor-agents-java-devcontainers) |
 | | | [Cursor Cloud Agent Status](https://github.com/jabrena/cursor-cloud-agent-rest-api-status) |
 | | | [jbang sonar-search@jabrena --help](https://github.com/jabrena/sonar-search-cli) WIP |
+| | | [jbang result-json-map.0.1.0-SNAPSHOT@jabrena --help](https://github.com/jabrena/result-json-map-cli) |
 | | | [Jbang Catalog](https://github.com/jabrena/jbang-catalog) |
+
 
 - https://github.com/jabrena/advent-of-code
 
