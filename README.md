@@ -8,8 +8,10 @@ Over the following decades, I have contributed to the Java community in Robotics
 
 In the last decade, I have been involved in various projects focusing on Microservice architectures with Spring. A year ago, I started exploring [System prompts for Java](https://github.com/jabrena/cursor-rules-java) to help Java Software engineers in their daily work with the support of AI models. Currently, I work as Engineering manager guiding/coaching teams.
 
+<!--
 - https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md
 - https://gitranks.com/profile/jabrena
+-->
 
 > *"Make it work, make it right, make it fast."* -- Kent Beck
 > 
@@ -17,6 +19,7 @@ In the last decade, I have been involved in various projects focusing on Microse
 
 https://github.com/users/jabrena/projects/2/views/1
 
+<!--
 ## Latest works
 
 | Talks & Articles | System prompts | Tooling |
@@ -30,6 +33,7 @@ https://github.com/users/jabrena/projects/2/views/1
 | | | [jbang sonar-search@jabrena --help](https://github.com/jabrena/sonar-search-cli) WIP |
 | | | [jbang result-json-map.0.1.0-SNAPSHOT@jabrena --help](https://github.com/jabrena/result-json-map-cli) |
 | | | [Jbang Catalog](https://github.com/jabrena/jbang-catalog) |
+-->
 
 
 
