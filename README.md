@@ -19,6 +19,8 @@ In the last decade, I have been involved in various projects focusing on Microse
 
 https://github.com/users/jabrena/projects/2/views/1
 
+https://github.com/jabrena/jbang-catalog
+
 <!--
 ## Latest works
 
